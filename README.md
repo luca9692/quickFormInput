@@ -8,11 +8,11 @@ You can install the library via npm:
 
 ```sh
 npm install quickFormSubmit
-
+```
 
 ## Example Usage
 
-```
+```html
 <form action="/submit" method="POST" class="test-form">
   <input type="text" name="username" value="testuser" />
   <input type="submit" value="Submit" />
